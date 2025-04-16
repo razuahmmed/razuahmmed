@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Razu Ahmmed</h1>
+
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razuahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="razuahmmed" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=razuahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="razuahmmed" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razuahmmed" alt="razuahmmed" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razuahmmed" alt="razuahmmed" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/razuahmmed" target="blank"><img src="https://img.shields.io/twitter/follow/razuahmmed?logo=twitter&style=for-the-badge" alt="razuahmmed" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/razuahmmed" target="blank"><img src="https://img.shields.io/twitter/follow/razuahmmed?logo=twitter&style=for-the-badge" alt="razuahmmed" /></a>
+</p>
 
 - 🔭 I’m currently working on **Driving License Demerit Point**
 
