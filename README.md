@@ -84,8 +84,12 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/razuahmmed"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="razuahmmed" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razuahmmed&show_icons=true&locale=en&layout=compact" alt="razuahmmed" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razuahmmed&show_icons=true&locale=en&layout=compact" alt="razuahmmed" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razuahmmed&show_icons=true&locale=en" alt="razuahmmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmmed&" alt="razuahmmed" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmmed&" alt="razuahmmed" />
+</p>
