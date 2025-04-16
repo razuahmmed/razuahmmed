@@ -40,39 +40,39 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/razuahmmed" target="blank">
+<a href="https://linkedin.com/in/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://twitter.com/razuahmmed" target="blank">
+<a href="https://twitter.com/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/razuahmmed" target="blank">
+<a href="https://stackoverflow.com/users/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/razuahmmedpro" target="blank">
+<a href="https://fb.com/razuahmmedpro" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/razuahmmed89" target="blank">
+<a href="https://instagram.com/razuahmmed89" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://dribbble.com/razuahmmed" target="blank">
+<a href="https://dribbble.com/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://medium.com/razuahmmed" target="blank">
+<a href="https://medium.com/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/razuahmmed" target="blank">
+<a href="https://www.hackerrank.com/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
-<a href="https://www.leetcode.com/razuahmmed" target="blank">
+<a href="https://www.leetcode.com/razuahmmed" target="target">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razuahmmed" height="30" width="40" />
 </a>
 
