@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Java, Spring, AWS**
 
-- 📫 How to reach me **razu.pro@gmail.com**
+- 📫 How to reach me **razuahmmed.pro@gmail.com**
 
 - 📄 Know about my experiences [razuahmmed.me](razuahmmed.me)
 
