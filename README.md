@@ -26,7 +26,7 @@
 
 - 🤝 I’m looking for help with **Computer Based Management System (CBMS)**
 
-- 👨‍💻 All of my projects are available at [razuahmmed.me](razuahmmed.me)
+- 👨‍💻 All of my projects are available at [https://github.com/razuahmmed](https://github.com/razuahmmed)
 
 - 💬 Ask me about **Java, Spring, AWS**
 
