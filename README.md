@@ -60,21 +60,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="razuahmmed" height="30" width="40" />
   </a>
 
-  <a href="https://stackoverflow.com/users/razuahmmed" target="_blank">
+  <!--  <a href="https://stackoverflow.com/users/razuahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="razuahmmed" height="30" width="40" />
-  </a>
+  </a> -->
   
   <a href="https://razuahmmed.medium.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="razuahmmed" height="30" width="40" />
   </a>
   
-  <a href="https://www.hackerrank.com/razuahmmed" target="_blank">
+  <!--  <a href="https://www.hackerrank.com/razuahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="razuahmmed" height="30" width="40" />
-  </a>
+  </a> -->
   
-  <a href="https://www.leetcode.com/razuahmmed" target="_blank">
+  <!-- <a href="https://www.leetcode.com/razuahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razuahmmed" height="30" width="40" />
-  </a>
+  </a> -->
 
 </p>
 
