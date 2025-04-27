@@ -48,7 +48,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razuahmmed" height="30" width="40" />
   </a>
   
-  <a href="https://fb.com/razuahmmedpro" target="_blank">
+  <a href="https://fb.com/razuahmmed.pro" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razuahmmed" height="30" width="40" />
   </a>
   
