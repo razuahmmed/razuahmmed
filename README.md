@@ -14,7 +14,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/razuahmmed89" target="blank">
-    <img src="https://img.shields.io/twitter/follow/razuahmmed89?logo=twitter&style=for-the-badge" alt="razuahmmed" />
+    <img src="https://img.shields.io/twitter/follow/razuahmmed?logo=twitter&style=for-the-badge" alt="razuahmmed" />
   </a> 
 </p>
 
