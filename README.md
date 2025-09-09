@@ -18,9 +18,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Driving License Demerit Point**
+- 🔭 I’m currently working on **BRTA Point Deduction**
 
-- 🌱 I’m currently learning **Microservice (Java)**
+- 🌱 I’m currently learning **Microservices (Java)**
 
 - 👯 I’m looking to collaborate on **Wage Earners' Welfare Board (RAISE)**
 
