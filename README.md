@@ -22,9 +22,9 @@
 
 - 🌱 I’m currently learning **Microservices (Java)**
 
-- 👯 I’m looking to collaborate on **Wage Earners' Welfare Board (RAISE)**
+- 👯 I’m looking to collaborate on **BISDP Complain care**
 
-- 🤝 I’m looking for help with **Computer Based Management System (CBMS)**
+- 🤝 I’m looking for help with **BRTA Service Portal (BSP)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/razuahmmed?tab=repositories](https://github.com/razuahmmed?tab=repositories)
 
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **razuahmmed.pro@gmail.com**
 
-- 📄 Know about my experiences [razuahmmed.me](razuahmmed.me)
+<!-- - 📄 Know about my experiences [razuahmmed.me](razuahmmed.me) -->
 
 - ⚡ Fun fact **Make learning funny**
 
