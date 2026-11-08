@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Razu Ahmmed</h1>
 
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">Sr. Software Engineer (Full Stack) at G8ICT · Payments, Government & Enterprise Platforms</h3>
+
+<p align="center">
+  <a href="https://razuahmmed.vercel.app"><b>🌐 Portfolio: razuahmmed.vercel.app</b></a>
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=razuahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="razuahmmed" /> 
@@ -18,21 +22,19 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Road Safety Penalty System**
+- 🔭 I’m currently working on **POS Terminal & Card Payment (ISO 8583)** at G8ICT
+
+- 🏛️ Previously built **BRTA Service Portal (BSP), BRTA Sheba (100K+ downloads), RSPS and Chittagong Port Authority automation** at CNS
 
 - 🌱 I’m currently learning **Microservices (Java)**
 
-- 👯 I’m looking to collaborate on **BISDP Complain care**
-
-- 🤝 I’m looking for help with **BRTA Service Portal (BSP)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/razuahmmed?tab=repositories](https://github.com/razuahmmed?tab=repositories)
 
-- 💬 Ask me about **Java, Spring, AWS, ...**
+- 💬 Ask me about **Java, Spring Boot, ISO 8583, Flutter, ...**
 
 - 📫 How to reach me **razuahmmed.pro@gmail.com**
 
-<!-- - 📄 Know about my experiences [razuahmmed.me](razuahmmed.me) -->
+- 📄 Know about my experiences **[razuahmmed.vercel.app](https://razuahmmed.vercel.app)**
 
 - ⚡ Fun fact **Make learning funny**
 
