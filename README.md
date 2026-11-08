@@ -89,10 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razuahmmed&theme=github_dark" alt="GitHub stats" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razuahmmed&theme=github_dark" alt="Top languages" height="180" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razuahmmed&" alt="razuahmmed" />
-</p>
+
